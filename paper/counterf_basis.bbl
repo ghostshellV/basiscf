@@ -1,0 +1,204 @@
+\begin{thebibliography}{10}
+\providecommand{\url}[1]{\texttt{#1}}
+\providecommand{\urlprefix}{URL }
+\providecommand{\doi}[1]{https://doi.org/#1}
+
+\bibitem{abramowitz1964handbook}
+Abramowitz, M., Stegun, I.A.: Handbook of Mathematical Functions with Formulas,
+  Graphs, and Mathematical Tables. Dover Publications, New York (1964)
+
+\bibitem{nectoux2012pronostia}
+et~al., P.N.: Pronostia: An experimental platform for bearings accelerated
+  degradation tests. In: IEEE International Conference on Prognostics and
+  Health Management (PHM'12) (2012)
+
+\bibitem{CoMTE_9462056}
+Ates, E., Aksar, B., Leung, V.J., Coskun, A.K.: Counterfactual explanations for
+  multivariate time series. In: 2021 International Conference on Applied
+  Artificial Intelligence (ICAPAI). pp.~1--8 (2021).
+  \doi{10.1109/ICAPAI49758.2021.9462056}
+
+\bibitem{bahri2024discord}
+Bahri, O., Li, P., Filali~Boubrahimi, S., Hamdi, S.M.: Discord-based
+  counterfactual explanations for time series classification. Data Mining and
+  Knowledge Discovery  \textbf{38}(6),  3347--3371 (2024)
+
+\bibitem{bento2021timeshap}
+Bento, J.a., Saleiro, P., Cruz, A.F., Figueiredo, M.A., Bizarro, P.: Timeshap:
+  Explaining recurrent models through sequence perturbations. In: Proceedings
+  of the 27th ACM SIGKDD Conference on Knowledge Discovery \& Data Mining. p.
+  2565–2573. KDD '21, Association for Computing Machinery, New York, NY, USA
+  (2021). \doi{10.1145/3447548.3467166},
+  \url{https://doi.org/10.1145/3447548.3467166}
+
+\bibitem{deBoor1978}
+de~Boor, C.: A Practical Guide to Splines, Applied Mathematical Sciences,
+  vol.~27. Springer-Verlag, New York (1978)
+
+\bibitem{broomhead1988multivariable}
+Broomhead, D.S., Lowe, D.: Multivariable functional interpolation and adaptive
+  networks. Complex systems  \textbf{2}(3),  321--355 (1988)
+
+\bibitem{appliances_energy_prediction_374}
+Candanedo, L.M., Feldheim, V., Deramaix, D.: Data driven prediction models of
+  energy use of appliances in a low-energy house. Energy and Buildings
+  \textbf{140},  81--92 (2017). \doi{10.1016/j.enbuild.2017.01.083}
+
+\bibitem{delaney2021instance}
+Delaney, E., Greene, D., Keane, M.T.: Instance-based counterfactual
+  explanations for time series classification. In: International conference on
+  case-based reasoning. pp. 32--47. Springer (2021)
+
+\bibitem{XAI_Core_Sol_ACM_10.1145/3561048}
+Dwivedi, R., Dave, D., Naik, H., Singhal, S., Omer, R., Patel, P., Qian, B.,
+  Wen, Z., Shah, T., Morgan, G., Ranjan, R.: Explainable ai (xai): Core ideas,
+  techniques, and solutions. ACM Comput. Surv.  \textbf{55}(9) (Jan 2023).
+  \doi{10.1145/3561048}, \url{https://doi.org/10.1145/3561048}
+
+\bibitem{green1993nonparametric}
+Green, P.J., Silverman, B.W.: Nonparametric Regression and Generalized Linear
+  Models: A roughness penalty approach. Chapman and Hall/CRC, 1st edn. (1993).
+  \doi{10.1201/b15710}
+
+\bibitem{CF_LIT_Rev_10.1007/s10618-022-00831-6}
+Guidotti, R.: Counterfactual explanations and how to find them: literature
+  review and benchmarking. Data Min. Knowl. Discov.  \textbf{38}(5),
+  2770–2824 (Apr 2022). \doi{10.1007/s10618-022-00831-6},
+  \url{https://doi.org/10.1007/s10618-022-00831-6}
+
+\bibitem{hase2021out}
+Hase, P., Xie, H., Bansal, M.: The out-of-distribution problem in
+  explainability and search methods for feature importance explanations.
+  Advances in neural information processing systems  \textbf{34},  3650--3666
+  (2021)
+
+\bibitem{CF_Pearl_10.1093/logcom/exm048}
+Hopkins, M., Pearl, J.: Causality and counterfactuals in the situation
+  calculus. Journal of Logic and Computation  \textbf{17}(5),  939--953 (08
+  2007). \doi{10.1093/logcom/exm048},
+  \url{https://doi.org/10.1093/logcom/exm048}
+
+\bibitem{jang2025timing}
+Jang, H., Kim, C., Yang, E.: {TIMING: Temporality-Aware Integrated Gradients
+  for Time Series Explanation}. In: International Conference on Machine
+  Learning (ICML) (2025)
+
+\bibitem{2015-kingma}
+Kingma, D.P., Ba, J.: Adam: A method for stochastic optimization. In: Bengio,
+  Y., LeCun, Y. (eds.) International Conference on Learning Representations
+  (ICLR) (2015),
+  \url{http://dblp.uni-trier.de/db/conf/iclr/iclr2015.html#KingmaB14}
+
+\bibitem{konidaris2011value}
+Konidaris, G., Osentoski, S., Thomas, P.: Value function approximation in
+  reinforcement learning using the fourier basis. In: Proceedings of the AAAI
+  conference on artificial intelligence. vol.~25, pp. 380--385 (2011)
+
+\bibitem{Kulesza_2012}
+Kulesza, A., Taskar, B.: Determinantal point processes for machine learning.
+  Foundations and Trends® in Machine Learning  \textbf{5}(2–3),  123–286
+  (Dec 2012). \doi{10.1561/2200000044},
+  \url{http://dx.doi.org/10.1561/2200000044}
+
+\bibitem{liu1989limited}
+Liu, D.C., Nocedal, J.: On the limited memory bfgs method for large scale
+  optimization. Mathematical Programming  \textbf{45}(1-3),  503--528 (1989).
+  \doi{10.1007/BF01589116}
+
+\bibitem{LONGO2024102301}
+Longo, L., Brcic, M., Cabitza, F., Choi, J., Confalonieri, R., Ser, J.D.,
+  Guidotti, R., Hayashi, Y., Herrera, F., Holzinger, A., Jiang, R., Khosravi,
+  H., Lecue, F., Malgieri, G., Páez, A., Samek, W., Schneider, J., Speith, T.,
+  Stumpf, S.: Explainable artificial intelligence (xai) 2.0: A manifesto of
+  open challenges and interdisciplinary research directions. Information Fusion
+   \textbf{106},  102301 (2024).
+  \doi{https://doi.org/10.1016/j.inffus.2024.102301},
+  \url{https://www.sciencedirect.com/science/article/pii/S1566253524000794}
+
+\bibitem{SHAP_10.5555/3295222.3295230}
+Lundberg, S.M., Lee, S.I.: A unified approach to interpreting model
+  predictions. In: Proceedings of the 31st International Conference on Neural
+  Information Processing Systems. p. 4768–4777. NIPS'17, Curran Associates
+  Inc., Red Hook, NY, USA (2017)
+
+\bibitem{MOHAMED2025200595}
+Mohamed, A., Abdelqader, K., Shaalan, K.: Explainable artificial intelligence:
+  A systematic review of progress and challenges. Intelligent Systems with
+  Applications  \textbf{28},  200595 (2025).
+  \doi{https://doi.org/10.1016/j.iswa.2025.200595},
+  \url{https://www.sciencedirect.com/science/article/pii/S2667305325001218}
+
+\bibitem{DiCE_Mothilal_2020}
+Mothilal, R.K., Sharma, A., Tan, C.: Explaining machine learning classifiers
+  through diverse counterfactual explanations. In: Proceedings of the 2020
+  Conference on Fairness, Accountability, and Transparency. p. 607–617. FAT*
+  ’20, ACM (Jan 2020). \doi{10.1145/3351095.3372850},
+  \url{http://dx.doi.org/10.1145/3351095.3372850}
+
+\bibitem{Sub-SpaCE_10.1007/978-3-031-63800-8_1}
+Refoyo, M., Luengo, D.: Sub-space: Subsequence-based sparse counterfactual
+  explanations for time series classification problems. In: Longo, L.,
+  Lapuschkin, S., Seifert, C. (eds.) Explainable Artificial Intelligence. pp.
+  3--17. Springer Nature Switzerland, Cham (2024)
+
+\bibitem{LIME_10.1145/2939672.2939778}
+Ribeiro, M.T., Singh, S., Guestrin, C.: "why should i trust you?": Explaining
+  the predictions of any classifier. In: Proceedings of the 22nd ACM SIGKDD
+  International Conference on Knowledge Discovery and Data Mining. p.
+  1135–1144. KDD '16, Association for Computing Machinery, New York, NY, USA
+  (2016). \doi{10.1145/2939672.2939778},
+  \url{https://doi.org/10.1145/2939672.2939778}
+
+\bibitem{Ricker1953}
+Ricker, N.: The form and laws of propagation of seismic wavelets. Geophysics
+  \textbf{18}(1),  10--40 (1953). \doi{10.1190/1.1437843}
+
+\bibitem{saxena2008damage}
+Saxena, A., Goebel, K., Simon, D., Eklund, N.: Damage propagation modeling for
+  aircraft engine run-to-failure simulation. In: 2008 international conference
+  on prognostics and health management. pp.~1--9. IEEE (2008)
+
+\bibitem{Integrated_Grad_10.5555/3305890.3306024}
+Sundararajan, M., Taly, A., Yan, Q.: Axiomatic attribution for deep networks.
+  In: Proceedings of the 34th International Conference on Machine Learning -
+  Volume 70. p. 3319–3328. ICML'17, JMLR.org (2017)
+
+\bibitem{wachter2017counterfactual}
+Wachter, S., Mittelstadt, B., Russell, C.: Counterfactual explanations without
+  opening the black box: Automated decisions and the gdpr. Harvard Journal of
+  Law \& Technology  \textbf{31}(2),  841--887 (2018),
+  \url{https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3063289}
+
+\bibitem{wang2023counterfactual}
+Wang, Z., Miliou, I., Samsten, I., Papapetrou, P.: Counterfactual explanations
+  for time series forecasting. In: 2023 IEEE International Conference on Data
+  Mining (ICDM). pp. 1391--1396. IEEE (2023)
+
+\bibitem{Wang2024}
+Wang, Z., Samsten, I., Miliou, I., Mochaourab, R., Papapetrou, P.: Glacier:
+  guided locally constrained counterfactual explanations for time series
+  classification. Machine Learning  \textbf{113}(7),  4639--4669 (Jul 2024).
+  \doi{10.1007/s10994-023-06502-x},
+  \url{https://doi.org/10.1007/s10994-023-06502-x}
+
+\bibitem{wang2024glacier}
+Wang, Z., Samsten, I., Miliou, I., Mochaourab, R., Papapetrou, P.: Glacier:
+  guided locally constrained counterfactual explanations for time series
+  classification. Machine Learning  \textbf{113}(7),  4639--4669 (2024)
+
+\bibitem{WILKINSON2026200647}
+Wilkinson, C., Yawney, J., Gadsden, S.A.: Explaining explainability: A
+  comprehensive survey on explainable artificial intelligence and relevant
+  industry applications. Intelligent Systems with Applications p. 200647
+  (2026). \doi{https://doi.org/10.1016/j.iswa.2026.200647},
+  \url{https://www.sciencedirect.com/science/article/pii/S2667305326000220}
+
+\bibitem{Learn_CF_Intervals_10.1145/3627673.3679952}
+Yamaguchi, A., Ueno, K., Shingaki, R., Kashima, H.: Learning counterfactual
+  explanations with intervals for time-series classification. In: Proceedings
+  of the 33rd ACM International Conference on Information and Knowledge
+  Management. p. 4158–4162. CIKM '24, Association for Computing Machinery,
+  New York, NY, USA (2024). \doi{10.1145/3627673.3679952},
+  \url{https://doi.org/10.1145/3627673.3679952}
+
+\end{thebibliography}

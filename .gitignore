@@ -1,0 +1,50 @@
+# Datasets (download separately — see README)
+data/
+!data/.gitkeep
+
+# Experiment artefacts: trained weights, CF result dumps, figures
+outputs/
+cf_experiment_outputs/
+*.pth
+*.pt
+*.ckpt
+*.onnx
+
+# Tabular / array dumps
+*.csv
+*.parquet
+*.h5
+*.hdf5
+*.npz
+*.npy
+*.pkl
+*.pickle
+*.joblib
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+build/
+dist/
+.venv/
+venv/
+.conda/
+.env
+
+# Tooling caches
+.ipynb_checkpoints/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.vscode/
+.idea/
+.DS_Store
+
+# LaTeX build artefacts
+paper/*.aux
+paper/*.log
+paper/*.out
+paper/*.blg
+paper/*.synctex.gz

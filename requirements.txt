@@ -1,0 +1,21 @@
+# BasisCF — runtime dependencies
+# Versions match the environment used for the paper experiments.
+
+# Core numerics / DL
+torch==2.9.0
+numpy==2.2.6
+pandas==2.3.3
+scipy==1.16.2
+scikit-learn==1.7.2
+
+# Plotting
+matplotlib==3.10.7
+seaborn==0.13.2
+
+# Utilities
+tqdm==4.67.1
+optuna>=3.6            # only for src/train_transformer_ieee_phm.py (HPO)
+
+# Notebooks
+jupyter
+ipykernel==7.0.1
