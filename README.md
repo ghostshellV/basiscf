@@ -69,7 +69,7 @@ Only the $K \times D$ coefficients $\mathbf{W}$ are optimised, under a joint obj
 ## Installation
 
 ```bash
-git clone https://github.com/XAI-IITG/basiscf.git
+git clone https://github.com/ghostshellV/basiscf.git
 cd basiscf
 
 python -m venv .venv
@@ -228,9 +228,9 @@ python -m pytest tests/          # unit tests for the metric primitives
 @inproceedings{basiscf,
   title     = {BasisCF: A Temporal Basis-Guided Counterfactual Explanations
                for Multivariate Time Series},
-  author    = {XAI-IITG},
+  author    = {},
   year      = {2025}
 }
 ```
 
-Developed at IIT Guwahati.
+Developed at .
