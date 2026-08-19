@@ -226,10 +226,9 @@ python -m pytest tests/          # unit tests for the metric primitives
 
 ```bibtex
 @inproceedings{basiscf,
-  title     = {BasisCF: A Temporal Basis-Guided Counterfactual Explanations
-               for Multivariate Time Series},
+  title     = {Basis-Guided Counterfactual Generation for Explainable Multivariate Time Series Models},
   author    = {},
-  year      = {2025}
+  year      = {2026}
 }
 ```
 
